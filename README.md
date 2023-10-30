@@ -1,2 +1,2 @@
 # GWT
-Gold With Trust
+Gold We Trust
